@@ -51,7 +51,7 @@ This repository documents my participation in the **Data Dash Hackathon**, organ
 - Certificate/ # Certificate of Participation (UNP Data Dash Hackathon)
 
 ## 📜 Certificate of Participation  
-![Certificate](Certificate/Certificate_DataDash_Hackathon.png)  
+![Certificate]([Certificate/Certificate_DataDash_Hackathon.png](https://github.com/Maddy10/Business-Analyst-Data-Dash-Hackathon/blob/main/Data%20Dash%20Hackathon%20Certification.pdf))  
 
 ---
 
