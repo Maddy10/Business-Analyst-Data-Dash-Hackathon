@@ -1,8 +1,5 @@
 # Data Dash Hackathon: Business Analyst Project
 
-📄 **[Certificate of Participation](Certificate/CertificateData_Dash_Hackathon_Certification.pdf)**  
-*Click the link above to view/download the certificate.*
-
 ## Overview
 This repository documents my participation in the **Data Dash Hackathon**, organized by the **United Network of Professionals (UNP)**. As a **Business Analyst**, I analyzed datasets, created actionable insights through visualizations, and delivered a comprehensive dashboard using **Excel** and **Tableau**. Below is a detailed breakdown of my contributions, tools, and outcomes.
 
