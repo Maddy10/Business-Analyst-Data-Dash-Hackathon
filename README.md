@@ -52,7 +52,6 @@ This repository documents my participation in the **Data Dash Hackathon**, organ
 
 ## 📜 Certificate of Participation  
 ![Certificate](Certificate/Certificate_DataDash_Hackathon.png)  
-*Note: Replace with your actual certificate image path.*
 
 ---
 
